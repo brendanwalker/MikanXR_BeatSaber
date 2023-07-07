@@ -1,2 +1,2 @@
-# BeatSaberDMX
- Custom BeatSaber plugin for mixes reality music videos
+# MikanXR_BeatSaber
+ Custom BeatSaber plugin for mixed reality music videos
